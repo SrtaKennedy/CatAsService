@@ -27,6 +27,6 @@ A documentação da API pode ser encontrada [aqui](https://developers.thecatapi.
 
 ## Imagens
 
-- [Convertio](https://convertio.co/pt/), para converter os arquivos .png para .ico
+- [Convertio](https://convertio.co/pt/)
 - [Icon Arquive](https://www.iconarchive.com/)
 - [Flaticon](https://www.flaticon.com/)
