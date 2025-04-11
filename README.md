@@ -21,9 +21,15 @@ A API utilizada é a [The Cat API](https://thecatapi.com/), que fornece imagens 
 A documentação da API pode ser encontrada [aqui](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t).
 
 ## Imagens do projeto
-![Home](homeCat.jpg)
-![Buscar](buscarcas.jpg)
-![Favoritos](buscaracasfavoritas.jpg)
+<div>
+  
+  <img src="https://github.com/user-attachments/assets/2ad790cb-6ef9-4937-9d25-859d84bfe680" width="330">
+  <img src="https://github.com/user-attachments/assets/e3d0f77b-826e-4781-8870-d6b0de90bce7" width="330">
+  <img src="https://github.com/user-attachments/assets/6e7524e9-f79f-4e63-8aa4-dc9718f84138" width="330">
+  
+  
+
+</div>
 
 ## Imagens
 
