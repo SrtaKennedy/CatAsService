@@ -1,7 +1,6 @@
 ## Cat As Service - #7DaysOfCode 
 
-A aplicação tem como objetivo buscar gatinhos aleatórios através de uma API, 
-permitindo que o usuário busque gatinhos, favoritar os que mais gosta e visualizar a lista de gatinhos favoritos.
+A aplicação tem como objetivo buscar gatinhos aleatórios através de uma API. Permite que o usuário busque gatinhos, favorite os que mais gosta, visualizar a lista de gatinhos favoritos e excluir.
 
 ## Tecnologias Utilizadas
 - C#
